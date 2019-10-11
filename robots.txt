@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taneeyuse.juniavalente.com/sitemap.xml
